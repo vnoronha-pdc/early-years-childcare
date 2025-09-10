@@ -22560,6 +22560,166 @@ var childcare = {
                 "LAT": 43.7400372259,
                 "LONG": -79.7849427205
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.71144006728318,
+                    43.57968991999941
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "LM_NAME": "EYES Child Care Mississauga Queen",
+                "CATEGORY": "Social Services",
+                "LM_TYPE": "Child Care (Other)",
+                "SDA_CAT": "Child Care Centre",
+                "STR_ADDR": "264 Queen Street South",
+                "UNIT": " ",
+                "MUN": "Mississauga",
+                "POSTAL": "L5M 1L8",
+                "PHONE": "416-220-1120",
+                "WEBSITE": "http://eyeschildcare.com/",
+                "Type": "Community-Based For-Profit Centre",
+                "ExtDay": " ",
+                "WARDNUM": 0,
+                "ROPADRID": 000000,
+                "Auspice": "For-Profit",
+                "Subsidy": "Available",
+                "Prg_y0_3": "Infant, Toddler, Preschool",
+                "Prg_y4_5": " ",
+                "Prg_y6_12": " ",
+                "Prg_ExtDay": " ",
+                "Prg_French": " ",
+                "RTB_Member": " ",
+                "Prg_Eve": " ",
+                "SDANAME17": " ",
+                "COVID": " ",
+                "LAT": 43.57968991999941,
+                "LONG": -79.71144006728318
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.848371902652,
+                    43.70817787109947
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "LM_NAME": "PLASP - Red Cedar PS",
+                "CATEGORY": "Social Services",
+                "LM_TYPE": "Child Care (Other)",
+                "SDA_CAT": "Child Care Centre",
+                "STR_ADDR": "595 Brisdale Drive",
+                "UNIT": " ",
+                "MUN": "Brampton",
+                "POSTAL": "L7A 0C3",
+                "PHONE": "437-580-1325",
+                "WEBSITE": "https://www.plasp.com/",
+                "Type": "Community-Based Non-Profit Centre",
+                "ExtDay": " ",
+                "WARDNUM": 0,
+                "ROPADRID": 000000,
+                "Auspice": "Non-Profit",
+                "Subsidy": "Available",
+                "Prg_y0_3": " ",
+                "Prg_y4_5": "Yes",
+                "Prg_y6_12": " ",
+                "Prg_ExtDay": " ",
+                "Prg_French": " ",
+                "RTB_Member": " ",
+                "Prg_Eve": " ",
+                "SDANAME17": " ",
+                "COVID": " ",
+                "LAT": 43.70817787109947,
+                "LONG": -79.848371902652
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.85392589682266,
+                    43.69816753737755
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "LM_NAME": "PLASP - St. Ruth C.S.",
+                "CATEGORY": "Social Services",
+                "LM_TYPE": "Child Care (Other)",
+                "SDA_CAT": "Child Care Centre",
+                "STR_ADDR": "320 Robert Parkinson Drive",
+                "UNIT": " ",
+                "MUN": "Brampton",
+                "POSTAL": "L7A 4W3",
+                "PHONE": "437-361-7262",
+                "WEBSITE": "https://www.plasp.com/",
+                "Type": "Community-Based Non-Profit Centre",
+                "ExtDay": " ",
+                "WARDNUM": 0,
+                "ROPADRID": 000000,
+                "Auspice": "Non-Profit",
+                "Subsidy": "Available",
+                "Prg_y0_3": " ",
+                "Prg_y4_5": "Yes",
+                "Prg_y6_12": " ",
+                "Prg_ExtDay": " ",
+                "Prg_French": " ",
+                "RTB_Member": " ",
+                "Prg_Eve": " ",
+                "SDANAME17": " ",
+                "COVID": " ",
+                "LAT": 43.69816753737755,
+                "LONG": -79.85392589682266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.74521040207449,
+                    43.603163138135656
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "LM_NAME": "SimplySmart Montessori Academy",
+                "CATEGORY": "Social Services",
+                "LM_TYPE": "Child Care (Other)",
+                "SDA_CAT": "Child Care Centre",
+                "STR_ADDR": "6745 Century Avenue",
+                "UNIT": " ",
+                "MUN": "Mississauga",
+                "POSTAL": "L5N 8C9",
+                "PHONE": "416-988-9510",
+                "WEBSITE": "https://simplysmartchildcare.com/daycare-locations/mississauga-century/",
+                "Type": "Community-Based For-Profit Centre",
+                "ExtDay": " ",
+                "WARDNUM": 0,
+                "ROPADRID": 000000,
+                "Auspice": "For-Profit",
+                "Subsidy": "Available",
+                "Prg_y0_3": "Infant, Toddler, Preschool",
+                "Prg_y4_5": "Yes",
+                "Prg_y6_12": " ",
+                "Prg_ExtDay": " ",
+                "Prg_French": " ",
+                "RTB_Member": " ",
+                "Prg_Eve": " ",
+                "SDANAME17": " ",
+                "COVID": " ",
+                "LAT": 43.603163138135656,
+                "LONG": -79.74521040207449
+            }
         }
     ]
 }
