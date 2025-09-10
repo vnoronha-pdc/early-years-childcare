@@ -15346,7 +15346,7 @@ var childcare = {
                 "ExtDay": "No",
                 "WARDNUM": 3,
                 "ROPADRID": 26633,
-                "Auspice": "For-Profit",
+                "Auspice": "Non-Profit",
                 "Subsidy": "Available",
                 "Prg_y0_3": "Preschool",
                 "Prg_y4_5": "No",
