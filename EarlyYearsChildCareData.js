@@ -22720,6 +22720,129 @@ var childcare = {
                 "LAT": 43.603163138135656,
                 "LONG": -79.74521040207449
             }
-        }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.74923563365039,
+                    43.703365622038355
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "LM_NAME": "Caring For Kids - Madoc Drive PS",
+                "CATEGORY": "Social Services",
+                "LM_TYPE": "Child Care (Other)",
+                "SDA_CAT": "Child Care Centre",
+                "STR_ADDR": "49 Madoc Drive",
+                "UNIT": " ",
+                "MUN": "Brampton",
+                "POSTAL": "L6V 2A1",
+                "PHONE": "(905)-270-3370",
+                "WEBSITE": "https://www.caringforkids.ca/",
+                "Type": "Community-Based Non-Profit Centre",
+                "ExtDay": " ",
+                "WARDNUM": 0,
+                "ROPADRID": 000000,
+                "Auspice": "Non-Profit",
+                "Subsidy": "Unavailable",
+                "Prg_y0_3": " ",
+                "Prg_y4_5": "Yes",
+                "Prg_y6_12": " ",
+                "Prg_ExtDay": " ",
+                "Prg_French": " ",
+                "RTB_Member": " ",
+                "Prg_Eve": " ",
+                "SDANAME17": " ",
+                "COVID": " ",
+                "SCH_AGE": "30",
+                "LAT": 43.703365622038355,
+                "LONG": -79.74923563365039
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.72709751192384,
+                    43.67734803213582
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "LM_NAME": "Caring For Kids - Sir Wilfrid Laurier PS",
+                "CATEGORY": "Social Services",
+                "LM_TYPE": "Child Care (Other)",
+                "SDA_CAT": "Child Care Centre",
+                "STR_ADDR": "364 Bartley Bull Parkway",
+                "UNIT": " ",
+                "MUN": "Brampton",
+                "POSTAL": "L6W 2L8",
+                "PHONE": "(905)-270-3370",
+                "WEBSITE": "https://peel.cioc.ca/record/CDR1880",
+                "Type": "Community-Based Non-Profit Centre",
+                "ExtDay": " ",
+                "WARDNUM": 0,
+                "ROPADRID": 000000,
+                "Auspice": "Non-Profit",
+                "Subsidy": "Unavailable",
+                "Prg_y0_3": " ",
+                "Prg_y4_5": "Yes",
+                "Prg_y6_12": " ",
+                "Prg_ExtDay": " ",
+                "Prg_French": " ",
+                "RTB_Member": " ",
+                "Prg_Eve": " ",
+                "SDANAME17": " ",
+                "COVID": " ",
+                "SCH_AGE": "30",
+                "LAT": 43.67734803213582,
+                "LONG": -79.72709751192384
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.69965056680401,
+                    43.782531238000914,
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "LM_NAME": "Casa Dee Montessori School - Mcvean",
+                "CATEGORY": "Social Services",
+                "LM_TYPE": "Child Care (Other)",
+                "SDA_CAT": "Child Care Centre",
+                "STR_ADDR": "9995 Mcvean Drive",
+                "UNIT": " ",
+                "MUN": "Brampton",
+                "POSTAL": "L6P 2S5",
+                "PHONE": "(905)-955-2333",
+                "WEBSITE": "https://peel.cioc.ca/record/CDR1884",
+                "Type": "Community-Based Non-Profit Centre",
+                "ExtDay": " ",
+                "WARDNUM": 0,
+                "ROPADRID": 000000,
+                "Auspice": "Non-Profit",
+                "Subsidy": "Unavailable",
+                "Prg_y0_3": " ",
+                "Prg_y4_5": "Yes",
+                "Prg_y6_12": " ",
+                "Prg_ExtDay": " ",
+                "Prg_French": " ",
+                "RTB_Member": " ",
+                "Prg_Eve": " ",
+                "SDANAME17": " ",
+                "COVID": " ",
+                "SCH_AGE": "30",
+                "LAT": 43.782531238000914,
+                "LONG": -79.69965056680401
+            }
+        }                  
     ]
 }
