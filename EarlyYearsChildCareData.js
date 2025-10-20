@@ -852,7 +852,7 @@ var childcare = {
             },
             "properties": {
                 "FID": 21,
-                "LM_NAME": "Applewood Montessori Academy & Daycare (Applewood)",
+                "LM_NAME": "Songbirds Montessori School - Fairhill Campus",
                 "CATEGORY": "Social Services",
                 "LM_TYPE": "Child Care (Other)",
                 "SDA_CAT": "Child Care Centre",
@@ -860,14 +860,14 @@ var childcare = {
                 "UNIT": "1-6",
                 "MUN": "Brampton",
                 "POSTAL": "L7A 3N9",
-                "PHONE": "416-951-4688",
+                "PHONE": "(905)-970-1090",
                 "WEBSITE": "https://peelchildcare.cioc.ca/record/CDR0036",
                 "Type": "Community-Based For-Profit Centre",
                 "ExtDay": "No",
                 "WARDNUM": 6,
                 "ROPADRID": 244754,
                 "Auspice": "For-Profit",
-                "Subsidy": "Unavailable",
+                "Subsidy": "Available",
                 "Prg_y0_3": "Toddler, Preschool",
                 "Prg_y4_5": "No",
                 "Prg_y6_12": "No",
@@ -892,22 +892,22 @@ var childcare = {
             },
             "properties": {
                 "FID": 22,
-                "LM_NAME": "Applewood Montessori Academy & Daycare (Downtown)",
+                "LM_NAME": "Young Miracles Montessori & Childcare",
                 "CATEGORY": "Social Services",
                 "LM_TYPE": "Child Care (Other)",
                 "SDA_CAT": "Child Care Centre",
                 "STR_ADDR": "98A Queen St W",
                 "UNIT": " ",
                 "MUN": "Brampton",
-                "POSTAL": "L6X1A4",
-                "PHONE": "905-453-2022",
+                "POSTAL": "L6X 1A4",
+                "PHONE": "(905)-457-2466",
                 "WEBSITE": "https://peel.cioc.ca/record/CDR1797?Number=1",
                 "Type": "Community-Based For-Profit Centre",
                 "ExtDay": "No",
                 "WARDNUM": 1,
                 "ROPADRID": 389923,
                 "Auspice": "For-Profit",
-                "Subsidy": "Unavailable",
+                "Subsidy": "Available",
                 "Prg_y0_3": "Toddler, Preschool",
                 "Prg_y4_5": "No",
                 "Prg_y6_12": "No",
@@ -22637,6 +22637,7 @@ var childcare = {
                 "Prg_Eve": " ",
                 "SDANAME17": " ",
                 "COVID": " ",
+                "SCH_AGE": "90",
                 "LAT": 43.70817787109947,
                 "LONG": -79.848371902652
             }
@@ -22677,6 +22678,7 @@ var childcare = {
                 "Prg_Eve": " ",
                 "SDANAME17": " ",
                 "COVID": " ",
+                "SCH_AGE": "60",
                 "LAT": 43.69816753737755,
                 "LONG": -79.85392589682266
             }
@@ -22839,10 +22841,51 @@ var childcare = {
                 "Prg_Eve": " ",
                 "SDANAME17": " ",
                 "COVID": " ",
-                "SCH_AGE": "30",
+                "SCH_AGE": "",
                 "LAT": 43.782531238000914,
                 "LONG": -79.69965056680401
             }
-        }                  
+        },
+		{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6625051052125,
+                    43.51286269046204,
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "LM_NAME": "Little Kids Daycare Centre",
+                "CATEGORY": "Social Services",
+                "LM_TYPE": "Child Care (Other)",
+                "SDA_CAT": "Child Care Centre",
+                "STR_ADDR": "2655 North Sheridan Way",
+                "UNIT": " ",
+                "MUN": "Mississauga",
+                "POSTAL": "L5K 2P8",
+                "PHONE": "(647)-889-7209",
+                "WEBSITE": "https://peel.cioc.ca/record/CDR1883",
+                "Type": "Community-Based For-Profit Centre",
+                "ExtDay": " ",
+                "WARDNUM": 0,
+                "ROPADRID": 000000,
+                "Auspice": "For-Profit",
+                "Subsidy": "Available",
+                "Prg_y0_3": "Infant, Toddler, Preschool",
+                "Prg_y4_5": "No",
+                "Prg_y6_12": " ",
+                "Prg_ExtDay": " ",
+                "Prg_French": " ",
+                "RTB_Member": " ",
+                "Prg_Eve": " ",
+                "SDANAME17": " ",
+                "COVID": " ",
+                "SCH_AGE": "",
+                "LAT": 43.51286269046204,
+                "LONG": -79.6625051052125
+            }
+        }	
     ]
 }
